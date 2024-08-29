@@ -1,0 +1,74 @@
+## Візуальна студія
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.sln.binlog
+
+## Build-каталоги
+bin/
+obj/
+
+## NuGet пакети
+*.nupkg
+*.snupkg
+.nuget/packages/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Log, временные файлы и прочие мусорные файлы
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.scc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.pidb
+*.svclog
+*.suo
+*.cache
+*.pdb
+*.opendb
+*.sln
+*.sqlite
+*.sql
+
+## Конфігураційні файли
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+## Папка "publish"
+PublishOutput/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+_ReSharper.Caches/
+
+## Windows специфічні файли
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## IDE-specific files
+.idea/
+.idea_modules/
+*.iml
+.idea/*.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/libraries
+
+## System files
+.DS_Store
